@@ -79,9 +79,6 @@ This repository may include project analysis case studies such as:
 
 To explore the projects locally:
 
-Clone the repository:
-
-git clone https://github.com/your-username/Project-Analyst-Projects.git
 
 Navigate to a project folder:
 
